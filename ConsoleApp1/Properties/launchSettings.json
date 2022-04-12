@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"X|7/|9-|x|-8|8/|-6|x|X|X||81\""
+    }
+  }
+}
